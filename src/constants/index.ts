@@ -10,6 +10,9 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
+      // {href: '/', key: 'about', label: 'About'},
+      // {href: '/', key: 'job', label: 'Jobs'},
+      // {href: '/', key: 'us', label: 'Us'},
       'About AGRIIS',
       'Press Releases',
       'Environment',
@@ -17,10 +20,12 @@ export const FOOTER_LINKS = [
       'Privacy Policy',
       'Contact Us',
     ],
+    
   },
   {
     title: 'Our Community',
     links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+    
   },
 ];
 
